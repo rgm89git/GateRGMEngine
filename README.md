@@ -9,6 +9,12 @@ Essa engine foi baseada em cima do Gatete Mario Engine, uma otima engine, super 
 2. Baixa a engine.
 3. Importa a engine pro GameMaker: Studio.
 
+# Diferenças
+
+1. Baseada por cima do GME 1.4.5.
+
+# Copyright
+
 (c) 2018 RGM
 (c) 1985-2018 Nintendo
 
