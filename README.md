@@ -11,7 +11,7 @@ Essa engine foi baseada em cima do Gatete Mario Engine, uma otima engine, super 
 
 # Diferenças
 
-1. Baseada por cima do GME 1.4.5.
+1. Baseada por cima do GME 1.5.4.
 
 # Copyright
 
